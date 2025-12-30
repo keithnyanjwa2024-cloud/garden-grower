@@ -1,7 +1,7 @@
 {
   "name": "Garden Grower",
   "short_name": "GardenGame",
-  "description": "A relaxing gardening game where you grow virtual plants",
+  "description": "Grow your own virtual garden! Plant seeds, water plants, and harvest beautiful flowers in this relaxing gardening game.",
   "start_url": "/garden-grower/",
   "scope": "/garden-grower/",
   "display": "standalone",
@@ -9,8 +9,13 @@
   "theme_color": "#228B22",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "https://img.icons8.com/color/192/000000/seedling.png",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/000000/seedling.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
