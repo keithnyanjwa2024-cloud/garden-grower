@@ -1,12 +1,17 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
+  "name": "Garden Grower",
+  "short_name": "GardenGame",
+  "description": "A relaxing gardening game where you grow virtual plants",
+  "start_url": "/garden-grower/",
+  "scope": "/garden-grower/",
   "display": "standalone",
-  "name": "keithnyanjwa2024-cloud.github",
-  "orientation": "any",
-  "scope": "/",
-  "short_name": "keithnyanjwa2024-cloud.github",
-  "description": "Grow your virtual garden! Plant seeds, water plants, and watch them bloom in this relaxing gardening game.",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "background_color": "#7CFC00",
+  "theme_color": "#228B22",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
 }
