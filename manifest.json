@@ -1,0 +1,16 @@
+{
+  "name": "Garden Grower Game",
+  "short_name": "GardenGrow",
+  "description": "Grow your virtual garden with beautiful plants!",
+  "start_url": "/garden-grower/",
+  "display": "standalone",
+  "background_color": "#90EE90",
+  "theme_color": "#228B22",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
