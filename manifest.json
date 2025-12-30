@@ -6,6 +6,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "keithnyanjwa2024-cloud.github",
+  "description": "Grow your virtual garden! Plant seeds, water plants, and watch them bloom in this relaxing gardening game.",
   "start_url": "/",
   "theme_color": "#ffffff"
 }
