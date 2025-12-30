@@ -1,22 +1,44 @@
 {
   "name": "Garden Grower",
   "short_name": "GardenGame",
-  "description": "Grow your own virtual garden! Plant seeds, water plants, and harvest beautiful flowers in this relaxing gardening game.",
+  "description": "Grow beautiful plants in your virtual garden! Plant seeds, water them, and watch your garden bloom.",
   "start_url": "/garden-grower/",
   "scope": "/garden-grower/",
   "display": "standalone",
-  "background_color": "#7CFC00",
+  "background_color": "#90EE90",
   "theme_color": "#228B22",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "https://img.icons8.com/color/192/000000/seedling.png",
+      "src": "https://img.icons8.com/color/96/000000/plant-under-sun.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/color/144/000000/plant-under-sun.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/color/192/000000/plant-under-sun.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://img.icons8.com/color/512/000000/seedling.png",
+      "src": "https://img.icons8.com/color/512/000000/plant-under-sun.png",
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "screenshots": [
+    {
+      "src": "https://via.placeholder.com/1280x720/90EE90/000000?text=Garden+Grower+Game",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Garden Grower Gameplay"
+    }
+  ],
+  "categories": ["games", "entertainment", "lifestyle"],
+  "lang": "en"
 }
